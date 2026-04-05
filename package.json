@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "My WhatsApp Bot",
+  "main": "ban.js",
+  "scripts": {
+    "start": "node ban.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "qrcode-terminal": "latest"
+  }
+}
